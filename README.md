@@ -58,4 +58,4 @@ Hambugui 서버에 들어가는 Minecraft 런처입니다. 처음 실행하면 M
 
 ## 라이선스
 
-Hambugui Launcher는 GPL-3.0 라이선스입니다. 라이선스 전문과 함께 쓴 오픈 소스 목록은 설치된 런처 안에 들어 있습니다.
+Hambugui Launcher는 GPL-3.0 라이선스입니다. 화면은 [Slint](https://slint.dev)로 만들었고, Slint는 로열티 프리 라이선스 2.0으로 씁니다(런처의 **설정 → 정보**에 표시). 함께 쓴 오픈 소스 목록은 설치된 런처 안에 들어 있습니다.
